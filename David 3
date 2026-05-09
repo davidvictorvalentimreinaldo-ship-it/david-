@@ -1,0 +1,28 @@
+# 🐾 PetCare Manager: Modelagem de Sistema Veterinário
+ 
+## 📝 Descrição do Projeto
+Este projeto consiste na análise de requisitos e modelagem estrutural de um sistema inteligente para gestão de clínicas veterinárias e pet shops. O objetivo principal é digitalizar operações manuais, oferecendo soluções para agendamentos, controle de estoque e histórico centralizado de pacientes.
+ 
+Desenvolvido ao longo de três Sprints ágeis, o projeto abrange desde a **Visão do Produto e MVP** até a documentação técnica profunda. O sistema foi projetado para eliminar conflitos de horários e automatizar fluxos de atendimento, utilizando modelagem de processos de negócios e arquitetura de software padronizada.
+ 
+![Diagrama de Classes UML](./img/diagrama_classes.png)
+*Figura 1: Diagrama de Classes UML estruturando as entidades lógicas do sistema.*
+ 
+## 🚀 Tecnologias Utilizadas
+* **Modelagem de Processos:** BPMN (Business Process Model and Notation)
+* **Modelagem de Software:** UML (Diagramas de Classe, Sequência e Atividades)
+* **Metodologia:** Framework Ágil (Sprints e MVP)
+ 
+## 📊 Resultados e Aprendizados
+O projeto estabeleceu uma base técnica sólida para a futura implementação em código.
+* **Mapeamento de Jornada:** Identificação precisa dos gargalos operacionais (As-Is) e proposta de melhoria (To-Be).
+* **Automação de Processos:** Modelagem de fluxos no BPMN para otimizar o atendimento de vendedores e estoquistas.
+* **Estruturação Lógica:** Desenvolvimento de diagramas UML abrangentes, garantindo escalabilidade e robustez para o banco de dados e regras de negócio.
+ 
+## 🔧 Como Executar
+1. Clone o repositório.
+2. Abra o arquivo `Sprint_1_2_3.pdf` para visualizar a documentação completa dos requisitos.
+3. Acesse a pasta `/img` para analisar os diagramas UML e BPMN em alta resolução.
+ 
+---
+[Voltar ao início](https://github.com/david-victor-valentim-reinaldo/david-victor-valentim-reinaldo)
