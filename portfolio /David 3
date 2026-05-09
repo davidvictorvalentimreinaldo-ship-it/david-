@@ -1,0 +1,28 @@
+# 🏛️ Redesign de Interface: Delegacia Online (Gov.br)
+ 
+## 📝 Descrição do Projeto
+Este projeto consiste no redesign completo e de alta fidelidade de uma interface de serviço público crítica (Delegacia Online). O objetivo principal foi mitigar a carga cognitiva de cidadãos em situação de estresse, substituindo jargões jurídicos por fluxos de intenção claros e intuitivos.
+ 
+Desenvolvido como um dossiê técnico de auditoria, o sistema foi reestruturado com foco total em **Acessibilidade e Usabilidade**, garantindo conformidade com as diretrizes **WCAG 2.1 AA**, implementando navegação via teclado, compatibilidade com leitores de tela e um Design System validado para alto contraste (7.1:1).
+ 
+![Protótipo de Alta Fidelidade](./img/prototipo.png)
+*Figura 1: Telas do novo protótipo com paleta de alto contraste e fluxos simplificados.*
+ 
+## 🚀 Tecnologias Utilizadas
+* **Design e Prototipagem:** Figma
+* **Diretrizes:** WCAG 2.1 AA (Acessibilidade)
+* **Ferramentas de Validação:** Contrast Checker, Leitores de Tela (NVDA/VoiceOver)
+ 
+## 📊 Resultados e Aprendizados
+O projeto alcançou resultados sólidos nos testes de usabilidade, demonstrando a eficácia da nova interface.
+* **Aumento de Eficácia:** A taxa de sucesso dos usuários saltou de 45% (sistema atual) para 94% (novo protótipo).
+* **Satisfação Excelente:** O modelo atingiu o Score Final de **88.5 no SUS** (System Usability Scale).
+* **Eficiência:** Redução drástica no tempo de relato devido à implementação de um assistente de contexto em tempo real.
+ 
+## 🔧 Como Executar
+1. Clone o repositório.
+2. Abra o arquivo `Dossie_de_Redesign.pdf` para ler a auditoria completa.
+3. Navegue pela pasta `/img` para visualizar as telas e gráficos de performance.
+ 
+---
+[Voltar ao início](https://github.com/david-victor-valentim-reinaldo/david-victor-valentim-reinaldo)
